@@ -1,0 +1,55 @@
+---
+layout:     post
+title:      Intellij IDEA 2018 安装和破解
+subtitle:   Intellij IDEA 2018 安装和破解
+date:       2018-10-19
+author:     BY Stone
+header-img: 
+catalog: true
+tags:
+    - Intellij IDEA
+    - 安装
+    - 破解
+---
+
+## 进入官网下载IntelliJ IDEA [https://www.jetbrains.com/idea/download/#section=windows](https://www.jetbrains.com/idea/download/#section=windows) 选择收费版
+## 下载后正常安装即可，安装过后会出现如下注册窗口
+
+![图片](https://images-cdn.shimo.im/BmfkvIOKcWIopT9G/20170622144216737.jpg!thumbnail)
+### 可以看到一共3种激活方式，如上图所示，若选择第三种未激活成功，则选择第二种 选择Activation code.
+### 下载破解补丁JetbrainsCrack-2.6.2.jar  地址：[http://download.csdn.net/detail/gnail_oug/9824630](http://download.csdn.net/detail/gnail_oug/9824630) 或者 [http://idea.lanyus.com/](http://idea.lanyus.com/)
+### 将你下载好的JetbrainsCrack-2.6.2.jar拷贝到你的Idea安装目录的bin目录下,如下图红色框所示
+
+![图片](https://images-cdn.shimo.im/BlIFpdFR70U7CwdH/20170622143359992.jpg!thumbnail)
+### 在安装的idea下面的bin目录下面有2个文件：idea64.exe.vmoptions,idea.exe.vmoptions.用记事本打开，分别在最后面添加一行：-javaagent:D:\IDEA\bin\JetbrainsCrack-2.6.2.jar
+:“D:\IDEA\bin\JetbrainsCrack-2.6.2.jar”是我对应的JetbrainsCrack-2.6.2.jar的位置,你用你自己的安装路径。
+## 重新启动软件,再到Acrivation code中选择界面的时候,写入下面注册代码(到2099年到期)
+```
+ThisCrackLicenseId-{    
+"licenseId":"ThisCrackLicenseId",    
+"licenseeName":"idea",    
+"assigneeName":"",    
+"assigneeEmail":"idea@163.com",    
+"licenseRestriction":"For This Crack, Only Test! Please support genuine!!!",    
+"checkConcurrentUse":false,    
+"products":[    
+{"code":"II","paidUpTo":"2099-12-31"},    
+{"code":"DM","paidUpTo":"2099-12-31"},    
+{"code":"AC","paidUpTo":"2099-12-31"},    
+{"code":"RS0","paidUpTo":"2099-12-31"},    
+{"code":"WS","paidUpTo":"2099-12-31"},    
+{"code":"DPN","paidUpTo":"2099-12-31"},    
+{"code":"RC","paidUpTo":"2099-12-31"},    
+{"code":"PS","paidUpTo":"2099-12-31"},    
+{"code":"DC","paidUpTo":"2099-12-31"},    
+{"code":"RM","paidUpTo":"2099-12-31"},    
+{"code":"CL","paidUpTo":"2099-12-31"},    
+{"code":"PC","paidUpTo":"2099-12-31"}    
+],    
+"hash":"2911276/0",    
+"gracePeriodDays":7,    
+"autoProlongated":false}   
+```
+## 能够进入应用界面,说明破解成功(如果还不成功去[http://idea.lanyus.com/](http://idea.lanyus.com/)看一下。
+
+
