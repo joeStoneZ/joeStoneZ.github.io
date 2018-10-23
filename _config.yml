@@ -59,8 +59,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 636968e44552d2924c21                            #生成的clientID
-  clientSecret: 2e4459524608e3b8be9ef156bca49ae7417f5a6c    #生成的clientSecret
+  clientID: 26e2e4c37469d44c303d                            #生成的clientID
+  clientSecret: 20c5adc95303bdb62c6616de6006475be47af008    #生成的clientSecret
   repo: joeStoneZ.github.io    #仓库名称
   owner: joeStoneZ    #github用户名
   admin: joeStoneZ
