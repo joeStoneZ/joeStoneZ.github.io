@@ -65,7 +65,7 @@ gitalk:
   owner: joeStoneZ    #github用户名
   admin: joeStoneZ
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
+  id:joeStoneZ.github.io
 
 # 统计
 
