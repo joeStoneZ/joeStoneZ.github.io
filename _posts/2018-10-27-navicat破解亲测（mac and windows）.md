@@ -19,6 +19,6 @@
 7.打开Navicat Premium软件，点击注册，并将注册码复制到注册页面中，
 8.点击激活，然后点击手动激活
 9.将请求码复制到Navicat Premium注册机中，并点击生成。
-![https://github.com/joeStoneZ/joeStoneZ.github.io/blob/master/img/crack/navicat-crack-0.png](https://github.com/joeStoneZ/joeStoneZ.github.io/blob/master/img/crack/navicat-crack-0.png)
+![https://github.com/joeStoneZ/joeStoneZ.github.io/blob/master/img/crack/navicat-crack-1.png](https://github.com/joeStoneZ/joeStoneZ.github.io/blob/master/img/crack/navicat-crack-1.png)
 10.激活码将自动生成在激活页面，并点击激活！
 11.完成Navicat Premium的破解！
