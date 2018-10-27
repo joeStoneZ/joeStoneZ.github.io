@@ -3,7 +3,7 @@
 百度云访问下面链接
 链接:[https://pan.baidu.com/s/1KIYWBVVUlDavzSByVvVkHw](https://pan.baidu.com/s/1KIYWBVVUlDavzSByVvVkHw)   密码:qe0z
 下载如图所示内容
-![https://github.com/joeStoneZ/joeStoneZ.github.io/blob/master/img/crack/navicat-crack-0.png](https://github.com/joeStoneZ/joeStoneZ.github.io/blob/master/img/crack/navicat-crack-0.png)
+![https://raw.githubusercontent.com/joeStoneZ/joeStoneZ.github.io/master/img/crack/navicat-crack-0.png](https://raw.githubusercontent.com/joeStoneZ/joeStoneZ.github.io/master/img/crack/navicat-crack-0.png)
 正常安装navicat 
 安装之后将zh_Hans.Iproj.zip解压到Resources下
 打开应用程序 若未弹出注册页面 则破解成功
@@ -19,7 +19,7 @@
 7. 打开Navicat Premium软件，点击注册，并将注册码复制到注册页面中，
 8. 点击激活，然后点击手动激活
 9. 将请求码复制到Navicat Premium注册机中，并点击生成。
-10. ![https://github.com/joeStoneZ/joeStoneZ.github.io/blob/master/img/crack/navicat-crack-1.png](https://github.com/joeStoneZ/joeStoneZ.github.io/blob/master/img/crack/navicat-crack-1.png)
+10. ![https://raw.githubusercontent.com/joeStoneZ/joeStoneZ.github.io/master/img/crack/navicat-crack-1.png](https://raw.githubusercontent.com/joeStoneZ/joeStoneZ.github.io/master/img/crack/navicat-crack-1.png)
 11. 激活码将自动生成在激活页面，并点击激活！
 12. 完成Navicat Premium的破解！
 
